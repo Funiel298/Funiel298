@@ -17,6 +17,7 @@ I'm a passionate Frontend Developer based in Almaty (KZ). I enjoy crafting inter
 ## Contact
 - **Email:** darbekov.daniel@bk.ru 📧
 - **Discord:** @faniel298 💬
-- **LinkedIn:** [Dara Pame](https://www.linkedin.com/in/daniel-darbekov-63345a24b/) 👔
+- **LinkedIn:** [Darbekov Daniel](https://www.linkedin.com/in/daniel-darbekov-63345a24b/) 👔
+- **Telegram:** @faniel298 🗨️
 
 Feel free to reach out, and let's connect! 😊✨
