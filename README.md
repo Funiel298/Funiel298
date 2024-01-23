@@ -1,4 +1,13 @@
-<img src="https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif" style="object-fit: cover;" width="1000" height="200" />
+# 🌧️ **Beware! It's Raining Pixels! 🎉**
+
+Hello there! 👋 Welcome to my GitHub world where things get a bit pixelated sometimes. 🕹️
+
+![Great Pixel Rain...or maybe rain in pixels? HMMMMMM....](https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif)
+
+Feel free to explore, contribute, and, most importantly, enjoy the pixelated rain! ☔🌈
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+
 
 # Hi there, I'm Daniel Darbekov! 👋
 
