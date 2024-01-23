@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif" width="1000" height="100" />
+<img src="https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif" style="object-fit: cover; width: 100%; height: 30%;"  />
 
 # Hi there, I'm Daniel Darbekov! 👋
 
