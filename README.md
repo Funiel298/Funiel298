@@ -1,16 +1,13 @@
-# 🌧️ **Beware! It's Raining Pixels! ☔**
 ![Great Pixel Rain...or maybe rain in pixels? HMMMMMM....](https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif)
 
-# Hi there, I'm Daniel Darbekov! 👋
+# 🌧️Glad to see you under this beautiful rain☔, I'm Daniel Darbekov! 👋
 
 ## About Me
-I'm a passionate Frontend Developer based in Almaty (KZ). I enjoy crafting interactive and responsive web applications using cutting-edge technologies. 🚀
+I'm a Frontend Developer from Almaty (KZ). I'm always up for an adventure🚀
 
 ## Tech Stack
-- **Languages:** JavaScript (JS), TypeScript (TS), Python, R 🐍
-- **Frontend:** React, Next.js, Tailwind CSS 💻
-- **State Management:** MobX 🔄
-- **Testing:** Jest 🕹️
+- **Languages:** JavaScript (JS), TypeScript (TS), Python, R, C++ 🐍
+- **Frontend:** React, Next.js, Tailwind CSS, MobX, Jest💻
 - **Machine Learning:** PyTorch, scikit-learn 🤖
 - **Data Science:** R, Python, Matplotlib, Seaborn, NumPy, Pandas 📊
 
