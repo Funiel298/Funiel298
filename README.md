@@ -1,7 +1,6 @@
 ![Great Pixel Rain...or maybe rain in pixels? HMMMMMM....](https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif)
 
-# 🌧️Glad to see you under this beautiful rain☔
-# I'm Daniel Darbekov! 👋
+# 🌧️Glad to see you under this beautiful rain☔  🌧🌧🌧  ☔I'm Daniel Darbekov! 👋
 
 ## About Me
 I'm a Frontend Developer from Almaty (KZ). I'm always up for an adventure🚀
