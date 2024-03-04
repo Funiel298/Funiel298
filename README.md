@@ -6,10 +6,10 @@
 I'm a Frontend Developer from Almaty (KZ). I'm always up for an adventure🚀
 
 ## Tech Stack
-- **Languages:** JavaScript (JS), TypeScript (TS), Python, R, C++ 🐍
-- **Frontend:** React, Next.js, Tailwind CSS, MobX, Jest💻
-- **Machine Learning:** PyTorch, scikit-learn 🤖
-- **Data Science:** R, Python, Matplotlib, Seaborn, NumPy, Pandas, Plotly, MATLAB 📊
+- **Languages:** `JavaScript (JS)`, `TypeScript (TS)`, `Python`, `R`, `C++` 🐍
+- **Frontend:** `React`, `Next.js`, `Tailwind CSS`, `MobX`, `Jest`💻
+- **Machine Learning:** `PyTorch`, `scikit-learn` 🤖
+- **Data Science:** `Matplotlib`, `Seaborn`, `NumPy`, `Pandas`, `Plotly`, `MATLAB` 📊
 
 ## Contact
 - **Email:** darbekov.daniel@bk.ru 📧
