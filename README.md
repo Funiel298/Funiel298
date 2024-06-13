@@ -1,4 +1,4 @@
-![Great Pixel Rain...or maybe rain in pixels? HMMMMMM....](https://i.pinimg.com/originals/c2/39/6c/c2396c93261708302148b3a92c38fdcb.gif)
+<img src="https://i.pinimg.com/originals/ae/78/df/ae78df1ec46fe622dd0d3de6907fbe74.gif" width="100%" height="100%"/>
 
 # 🌧️Glad to see you under this beautiful rain☔ I'm Daniel! 👋
 
