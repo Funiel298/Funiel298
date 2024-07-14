@@ -7,7 +7,8 @@ I'm a Frontend Developer and Data Scientist from Almaty (KZ). I'm always up for 
 
 ## Tech Stack
 - **Languages:** `JavaScript (JS)`, `TypeScript (TS)`, `Python`, `R`, `C++` 🐍
-- **Frontend:** `React`, `Next.js`, `Tailwind CSS`, `MobX`, `Jest`, `Docker`💻
+- **Frontend:** `React`, `Next.js`, `Tailwind CSS`, `MobX`, `Jest`💻
+- **Backend:** `Node JS`, `Express`, `Docker` 💽
 - **Machine Learning:** `PyTorch`, `scikit-learn` 🤖
 - **Data Science:** `Matplotlib`, `Seaborn`, `NumPy`, `Pandas`, `Plotly`, `MATLAB` 📊
 
